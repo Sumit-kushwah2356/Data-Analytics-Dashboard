@@ -11,8 +11,8 @@ This dashboard analyzes metrics such as:
 - Platform-wise Performance (e.g., Instagram, Twitter, LinkedIn)
 
 - 
-The dataset used was generated using [Mockaroo](https://mockaroo.com/)
-<a href="https://github.com/Sumit-kushwah2356/Data-Analytics-a> Dashboard/blob/main/MOCK_DATA%20(1).csv">Dataset</a> , ensuring privacy and making it ideal for portfolio and learning purposes.
+The dataset used 
+<a href="https://github.com/Sumit-kushwah2356/Data-Analytics-Dashboard/blob/main/MOCK_DATA%20(1).csv">Dataset</a> 
 
 
 
