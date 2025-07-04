@@ -28,6 +28,15 @@ This dashboard analyzes metrics such as:
 10. Are we achieving campaign-specific goals (e.g. conversions or traffic)?
 
 ## Dashboard Interaction : <a href="https://github.com/Sumit-kushwah2356/Social_Media_Analytics_Dashboard/blob/main/SocialMediaAnalyticsDashboard.png">ViewDashboard</a>
+
+ ##Process 
+ 1. Define Objectives and KPIs
+2. Collect Data from Social Media Platforms (API/CSV)
+3. Clean and Transform Data in Power Query
+4. Create Data Model and Relationships
+5. Build Visuals and Charts in Power BI
+6. Add Filters, Slicers, and Interactivity
+7. Publish Dashboard to Power BI Service
  
 ## 🛠️ Tools & Technologies
 
