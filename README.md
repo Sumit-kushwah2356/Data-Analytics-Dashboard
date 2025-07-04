@@ -11,11 +11,11 @@ This dashboard analyzes metrics such as:
 - Platform-wise Performance (e.g., Instagram, Twitter, LinkedIn)
 
 - 
-##Dataset used 
+## Dataset used 
 <a href="https://github.com/Sumit-kushwah2356/Data-Analytics-Dashboard/blob/main/MOCK_DATA%20(1).csv">Dataset</a>
 
 
-##🔍 Key Questions the Dashboard Should Answer:
+## 🔍 Key Questions the Dashboard Should Answer:
 1. Which platforms are performing best?
 2. What is the engagement trend over time?
 3. Which posts are most popular (by likes, shares, comments)?
@@ -29,7 +29,7 @@ This dashboard analyzes metrics such as:
 
 ## Dashboard Interaction : <a href="https://github.com/Sumit-kushwah2356/Social_Media_Analytics_Dashboard/blob/main/SocialMediaAnalyticsDashboard.png">ViewDashboard</a>
 
- ##Process 
+## Process 
  1. Define Objectives and KPIs
 2. Collect Data from Social Media Platforms (API/CSV)
 3. Clean and Transform Data in Power Query
