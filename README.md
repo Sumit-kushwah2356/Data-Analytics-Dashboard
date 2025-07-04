@@ -27,8 +27,8 @@ This dashboard analyzes metrics such as:
 9. What is the sentiment of audience feedback?
 10. Are we achieving campaign-specific goals (e.g. conversions or traffic)?
 
-## Dashboard Interaction 
-
+## Dashboard Interaction : <a href="https://github.com/Sumit-kushwah2356/Social_Media_Analytics_Dashboard/blob/main/SocialMediaAnalyticsDashboard.png">ViewDashboard</a>
+ 
 ## 🛠️ Tools & Technologies
 
 - Power BI
