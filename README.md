@@ -12,7 +12,7 @@ This dashboard analyzes metrics such as:
 
 - 
 The dataset used was generated using [Mockaroo](https://mockaroo.com/)
-<a href="https://github.com/Sumit-kushwah2356/Data-Analytics-a> Dashboard/blob/main/MOCK_DATA%20(1).csv">Dataset</ , ensuring privacy and making it ideal for portfolio and learning purposes.
+<a href="https://github.com/Sumit-kushwah2356/Data-Analytics-a> Dashboard/blob/main/MOCK_DATA%20(1).csv">Dataset</a> , ensuring privacy and making it ideal for portfolio and learning purposes.
 
 
 
